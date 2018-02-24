@@ -59,9 +59,9 @@ workshop:
         content: "content 4 link"
   sessions:
     - 
-      id: "day1"
-      name: "Day 1"
-      description: "Content for Day 1"
+      id: "agenda"
+      name: "Agenda"
+      description: "March 6 - 9:00AM - 5:00PM"
       topics:
       -
         id: "session1"
@@ -77,7 +77,8 @@ workshop:
       -
         id: "12-domains-and-routes"
       -
-        id: "14-services"
+        id: "lunch"
+        title: "Lunch"
       -
         id: "20a-opsmgr-and-bosh-short"
       -
@@ -85,57 +86,11 @@ workshop:
       -
         id: "40-high-availability"
       -
-        id: "session1"
-        title: "Customization"
+        id: "breakout"
+        title: "Afternoon Breakouts"
       -
-        id: "56-cloud-controller-API"
+        id: "bosh"
+        title: "Bosh"
       -
-        id: "58-service-broker"
-      -
-        id: "59-oauth-primer"
-      -
-        id: "60-security-and-sso"
-      -
-        id: "62-buildpacks"
-      -
-        id: "session3"
-        title: "Cloud Native Apps and Continuous Delivery"
-      -
-        id: "why-cloud-native-slides"
-      -
-        id: "cna-culture-changes-slides"
-      -
-        id: "66-continuous-delivery"
-      -
-        id: "68-cloud-native-design"
-      -
-        id: "70-microservices"
-    - 
-      id: "day2"
-      name: "Day 2"
-      description: "Content for Day 2"
-      topics:
-      -
-        id: "springboot"
-        title: "Spring Boot"
-      -
-        id: "spring-boot-labs-setup"
-      -
-        id: "80-cs-spring-boot-basics"
-      -
-        id: "82-cs-spring-boot-adv"
-      -
-        id: "actuator"
-      -
-        id: "spring-data-rest"
-      -
-        id: "scs"
-        title: "Spring Cloud Services"
-      -
-        id: "scs-labs-setup"
-      -
-        id: "config"
-      -
-        id: "service-discovery"
-      -
-        id: "circuit-breakers"
+        id: "pks"
+        title: "PKS"
