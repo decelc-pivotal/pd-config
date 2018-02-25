@@ -64,8 +64,8 @@ workshop:
       description: "March 6 - 9:00AM - 5:00PM"
       topics:
       -
-        id: "session1"
-        title: "Application Development"
+        id: "intro"
+        title: "Introductions"
       -
         id: "pd-cf"
       -
