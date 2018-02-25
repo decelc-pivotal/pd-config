@@ -69,3 +69,6 @@ workshop:
         id: "pd-bosh"
       -
         id: "pd-pks"
+      -
+        id: "retro"
+        title: "Retro"
