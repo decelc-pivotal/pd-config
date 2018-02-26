@@ -42,7 +42,7 @@ workshop:
   sessions:
     - 
       id: "agenda"
-      name: "Agenda"
+      name: "Pre-Event Training"
       description: "March 6 - 9:00AM - 5:00PM"
       topics:
       -
