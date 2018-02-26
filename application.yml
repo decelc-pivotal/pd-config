@@ -69,3 +69,29 @@ workshop:
       -
         id: "retro"
         title: "Retro"
+    - 
+      id: "day1"
+      name: "Day 1"
+      description: "Agenda for Day 1"
+      topics:
+      -
+        id: "breakfast2"
+        title: "9:00-9:15 AM"
+        description: "Breakfast"
+      -
+        id: "day1talk"
+        title: "9:15-10:15 AM"
+        description: "Opening talk"
+    - 
+      id: "day2"
+      name: "Day 2"
+      description: "Agenda Day 2"
+      topics:
+      -
+        id: "breakfast2"
+        title: "9:00-9:15 AM"
+        description: "Breakfast"
+      -
+        id: "day2coding"
+        title: "9:15-12:00 PM"
+        description: "Coding"
