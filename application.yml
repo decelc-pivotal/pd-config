@@ -61,7 +61,7 @@ workshop:
         title: "Lunch"
       -
         id: "breakout"
-        title: "Afternoon Breakouts (Pick 1)"
+        title: "Afternoon Breakouts - Pick 1 (BOSH or PKS)"
       -
         id: "pd-bosh"
       -
