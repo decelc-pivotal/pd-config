@@ -65,7 +65,20 @@ workshop:
       -
         id: "pd-bosh"
       -
+        id: "pksheading"
+        title: "PKS Topics"
+      -
         id: "pd-pks"
+      -
+        id: "pd-kubernetes"
+      -
+        id: "pd-what-is-pks"
+      -
+        id: "pd-setup-pks-cluster"
+      -
+        id: "pd-pks-app-deploy"
+      -
+        id: "pd-helm"
       -
         id: "retro"
         title: "Retro"
