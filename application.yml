@@ -68,17 +68,17 @@ workshop:
         id: "pksheading"
         title: "PKS Topics"
       -
-        id: "pd-pks"
-      -
-        id: "pd-kubernetes"
-      -
         id: "pd-what-is-pks"
       -
         id: "pd-setup-pks-cluster"
       -
+        id: "pd-kubernetes"
+      -
         id: "pd-pks-app-deploy"
       -
         id: "pd-helm"
+      -
+        id: "pd-kibosh"
       -
         id: "retro"
         title: "Retro"
