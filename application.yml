@@ -22,7 +22,7 @@ workshop:
       phone: "603.512.5616"
   resources:
     -
-      title: "Pivotal Network 0cjd"
+      title: "Pivotal Network"
       url: "https://network.pivotal.io/"
     -
       title: "Pivotal Documentation"
