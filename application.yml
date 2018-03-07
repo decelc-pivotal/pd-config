@@ -11,7 +11,7 @@ hello: world
 workshop: 
   contentURL: "https://pd-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
-  date: "March 6-8, 2018"
+  date: "March 6-8 2018"
   description: "This workshop will cover the ..."
   customerLogo: ""
   instructors: 
