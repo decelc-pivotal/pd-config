@@ -84,8 +84,8 @@ workshop:
         title: "Retro"
     - 
       id: "day1"
-      name: "May 22, 2018"
-      description: "Agenda for Day 1"
+      name: "Day One"
+      description: "Agenda for Day One - May 22, 1018"
       topics:
       -
         id: "breakfast2"
@@ -109,8 +109,8 @@ workshop:
         description: "Coding"
     - 
       id: "day2"
-      name: "May 23, 2018"
-      description: "Agenda Day 2"
+      name: "Day Two"
+      description: "Agenda for Day Two - May 23, 2018"
       topics:
       -
         id: "breakfast2"
