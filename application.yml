@@ -68,7 +68,7 @@ workshop:
         id: "pksheading"
         title: "PKS Topics"
       -
-        id: "pd-what-is-pks"
+        id: "pd-pks"
       -
         id: "pd-pks-lab1"
       -
