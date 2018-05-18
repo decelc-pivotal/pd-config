@@ -70,15 +70,11 @@ workshop:
       -
         id: "pd-what-is-pks"
       -
-        id: "pd-setup-pks-cluster"
+        id: "pd-pks-lab1"
       -
-        id: "pd-kubernetes"
+        id: "pd-pks-lab2"
       -
-        id: "pd-pks-app-deploy"
-      -
-        id: "pd-helm"
-      -
-        id: "pd-kibosh"
+        id: "pd-pks-lab3"
       -
         id: "retro"
         title: "Retro"
