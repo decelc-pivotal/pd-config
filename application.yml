@@ -72,7 +72,7 @@ workshop:
       -
         id: "pd-pks-lab1"
       -
-        id: "pd-pks-lab2"
+        id: "pd-pks-helm-lab"
       -
         id: "pd-pks-lab3"
       -
