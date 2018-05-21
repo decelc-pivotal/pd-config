@@ -70,11 +70,11 @@ workshop:
       -
         id: "pd-pks"
       -
-        id: "pd-pks-lab1"
+        id: "pd-pks-k8s-lab"
       -
         id: "pd-pks-helm-lab"
       -
-        id: "pd-pks-lab3"
+        id: "pd-pks-kibosh-lab"
       -
         id: "retro"
         title: "Retro"
