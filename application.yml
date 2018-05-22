@@ -71,6 +71,7 @@ workshop:
         description: "Service Broker API, Lab"
       -
         id: "pd-osbapi"
+      -
         id: "afternoon-break"
         title: "1:45-2:00 PM - Break"
       -
