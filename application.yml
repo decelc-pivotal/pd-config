@@ -47,7 +47,8 @@ workshop:
       topics:
       -
         id: "intro"
-        title: "Introductions"
+        title: "8:30-10:30 AM"
+        description: "PCF Architecture, Overview, Lab"
       -
         id: "pd-cf"
       -
