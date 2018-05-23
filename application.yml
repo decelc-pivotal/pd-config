@@ -106,6 +106,8 @@ workshop:
         title: "8:30-9:30 AM"
         description: "Opening talk"
       -
+        id: "pd-building-tiles"
+      -
         id: "day1codingam"
         title: "9:30 AM-12:00 PM"
         description: "Coding"
