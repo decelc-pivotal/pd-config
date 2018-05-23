@@ -104,7 +104,6 @@ workshop:
       -
         id: "day1talk"
         title: "8:30-9:30 AM"
-        description: "Opening talk"
       -
         id: "pd-building-tiles"
       -
