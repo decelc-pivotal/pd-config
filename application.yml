@@ -63,6 +63,7 @@ workshop:
         title: "10:45 AM-12:00 PM"
       -
         id: "pd-services"
+        slideURL: "https://docs.google.com/presentation/d/e/2PACX-1vRq0HR2SW4ErPEqh9oHOmROMHU0aDaBrvF2mKfU0ePE1oTV570fnWYd3M8rmLtl1ifn2KlkAdJDBfSR/pub?start=false&loop=false&delayms=3000"
       -
         id: "pd-osbapi"
       -
