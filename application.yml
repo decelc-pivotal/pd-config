@@ -76,6 +76,7 @@ workshop:
         description: "Afternoon Breakouts - Pick 1 (BOSH or PKS)"
       -
         id: "pd-bosh"
+        slideURL: "https://docs.google.com/presentation/d/e/2PACX-1vQg0OaEYi1GQifzRb-rhraS7jziPnwlE4YHCg7woXSOyaJxD9E5oL4q6rPD-Kv8ttVHGg6rLbIpv4VR/pub?start=false&loop=false&delayms=3000"
       -
         id: "pksheading"
         title: "PKS Topics"
