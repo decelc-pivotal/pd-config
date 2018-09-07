@@ -86,6 +86,7 @@ workshop:
       -
         id: "retro"
         title: "Retro"
+        slideURL: "https://docs.google.com/presentation/d/e/2PACX-1vSMgfX34LQrmejoka05v3UcaPjpnfsFdvEzCOKq5__1mY9xV7UNDGw6TFRumkF1XzeUEC6RR4-mFx0-/pub?start=false&loop=false&delayms=3000#slide=id.g2769ec30bf_0_4"
     - 
       id: "day1"
       name: "Day One"
