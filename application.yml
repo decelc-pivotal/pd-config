@@ -51,6 +51,7 @@ workshop:
         description: "PCF Overview and Architecture, Lab"
       -
         id: "pd-cf"
+        slideURL: "https://docs.google.com/presentation/d/e/2PACX-1vSIvPxVNCheBqJhOL9BpNoxQLpGLE6kq3N_vnpex_pT7S2Lqs57-7zY616fJoILsnhKJddWlObAb8bF/pub?start=false&loop=false&delayms=3000"
       -
         id: "pd-cfa"
       -
