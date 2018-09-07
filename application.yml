@@ -80,6 +80,7 @@ workshop:
       -
         id: "pd-bosh"
         slideURL: "https://docs.google.com/presentation/d/e/2PACX-1vQg0OaEYi1GQifzRb-rhraS7jziPnwlE4YHCg7woXSOyaJxD9E5oL4q6rPD-Kv8ttVHGg6rLbIpv4VR/pub?start=false&loop=false&delayms=3000"
+        labURL: "https://drive.google.com/open?id=1_2s2oazpIBgaas0KIE2lo9KsmHv65DGa"
       -
         id: "pksheading"
         title: "PKS Topics"
