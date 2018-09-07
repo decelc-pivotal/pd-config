@@ -88,12 +88,6 @@ workshop:
         id: "pd-pks"
         slideURL: "https://docs.google.com/presentation/d/e/2PACX-1vRNHwkmqHg2pHJQHQTTiqt4Gbk-7qrwBw7rHT9Ku8MmM03KkDe9bkKQAhOFvrShCFG9XmuBMA95BicQ/pub?start=false&loop=false&delayms=3000"
       -
-        id: "pd-pks-k8s-lab"
-      -
-        id: "pd-pks-helm-lab"
-      -
-        id: "pd-pks-kibosh-lab"
-      -
         id: "retro"
         title: "Retro"
     - 
