@@ -1,0 +1,9 @@
+autorenew:
+  token:
+    - CF_PLATFORM_ENG_TOKEN
+    environments:
+      - dalycity
+      - southpasadena
+    - PIPE_TOKEN
+    environments:
+      - psuedo_environment
