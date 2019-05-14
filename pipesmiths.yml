@@ -1,13 +1,13 @@
---- 
 autorenew: 
   tokens: 
     - 
       name: CF_PLATFORM_ENG_TOKEN
       envs: 
-        - dalycity
-        - southpasadena
-
+        - id: dalycity
+        - id: southpasadena
+        - id: prague
     - 
       name: PIPE_TOKEN
       envs: 
-        - psuedo_environment
+        - id: psuedo_environment
+        - id: cjd-2-4
